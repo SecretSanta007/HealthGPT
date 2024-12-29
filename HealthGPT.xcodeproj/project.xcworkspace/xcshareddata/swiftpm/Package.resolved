@@ -1,0 +1,204 @@
+{
+  "originHash" : "763dd6c3fb283cd30c2edd3e18fad0c0f9ef9fb226c4b08bdd490e0a7de07181",
+  "pins" : [
+    {
+      "identity" : "gzipswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/1024jp/GzipSwift",
+      "state" : {
+        "revision" : "731037f6cc2be2ec01562f6597c1d0aa3fe6fd05",
+        "version" : "6.0.1"
+      }
+    },
+    {
+      "identity" : "jinja",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maiqingqiang/Jinja",
+      "state" : {
+        "revision" : "6dbe4c449469fb586d0f7339f900f0dd4d78b167",
+        "version" : "1.0.6"
+      }
+    },
+    {
+      "identity" : "mlx-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ml-explore/mlx-swift",
+      "state" : {
+        "revision" : "70dbb62128a5a1471a5ab80363430adb33470cab",
+        "version" : "0.21.2"
+      }
+    },
+    {
+      "identity" : "mlx-swift-examples",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ml-explore/mlx-swift-examples",
+      "state" : {
+        "revision" : "7baf9bc2d7a2b68b4bfcae308e448ec68b8ef049",
+        "version" : "1.18.1"
+      }
+    },
+    {
+      "identity" : "openai",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StanfordBDHG/OpenAI",
+      "state" : {
+        "revision" : "1ad95dd531d7c854a3f98f588b0eb68fa83e8a8c",
+        "version" : "0.2.9"
+      }
+    },
+    {
+      "identity" : "spezi",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StanfordSpezi/Spezi.git",
+      "state" : {
+        "revision" : "4513a697572e8e1faea1e0ee52e6fad4b8d3dd8d",
+        "version" : "1.8.0"
+      }
+    },
+    {
+      "identity" : "spezichat",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StanfordSpezi/SpeziChat",
+      "state" : {
+        "revision" : "940ffbec504849968305d9f956344a4f35b6cd48",
+        "version" : "0.2.1"
+      }
+    },
+    {
+      "identity" : "spezifoundation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StanfordSpezi/SpeziFoundation",
+      "state" : {
+        "revision" : "5b4ad1b343154b52a68c33a6bfe02d9cb07cb9dc",
+        "version" : "2.0.0"
+      }
+    },
+    {
+      "identity" : "spezihealthkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StanfordSpezi/SpeziHealthKit.git",
+      "state" : {
+        "revision" : "fbdec78fcb2f90d6338f1968e21dd11fbee65070",
+        "version" : "0.6.0"
+      }
+    },
+    {
+      "identity" : "spezillm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StanfordSpezi/SpeziLLM",
+      "state" : {
+        "revision" : "26b1e07756556b1b329f3a9a3267a5f99c0c2e78",
+        "version" : "0.9.1"
+      }
+    },
+    {
+      "identity" : "spezionboarding",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StanfordSpezi/SpeziOnboarding.git",
+      "state" : {
+        "revision" : "a3d7bc15e6803b2205eb8dca010a48b1a40215be",
+        "version" : "1.2.2"
+      }
+    },
+    {
+      "identity" : "spezispeech",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StanfordSpezi/SpeziSpeech",
+      "state" : {
+        "revision" : "60b8cdbf6f3d58b0d75eadf30db50f88848069aa",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "spezistorage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StanfordSpezi/SpeziStorage.git",
+      "state" : {
+        "revision" : "0f4a54430e51f82d29da63a7ce5f61bad7dfb9cd",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "speziviews",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StanfordSpezi/SpeziViews",
+      "state" : {
+        "revision" : "4d2a724d97c8f19ac7de7aa2c046b1cb3ef7b279",
+        "version" : "1.3.1"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "41982a3656a71c768319979febd796c6fd111d5c",
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "swift-atomics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-atomics.git",
+      "state" : {
+        "revision" : "cd142fd2f64be2100422d658e7411e39489da985",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections.git",
+      "state" : {
+        "revision" : "671108c96644956dddcd89dd59c203dcdb36cec7",
+        "version" : "1.1.4"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics",
+      "state" : {
+        "revision" : "0a5bc04095a675662cf24757cc0640aa2204253b",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "swift-transformers",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/huggingface/swift-transformers",
+      "state" : {
+        "revision" : "d42fdae473c49ea216671da8caae58e102d28709",
+        "version" : "0.1.14"
+      }
+    },
+    {
+      "identity" : "xctestextensions",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StanfordBDHG/XCTestExtensions.git",
+      "state" : {
+        "revision" : "5379d70249cae926927105bfb6686770f03ee5b9",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "xcthealthkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StanfordBDHG/XCTHealthKit.git",
+      "state" : {
+        "revision" : "6e9344a2d632b801d94fe3bbd1d891817e032103",
+        "version" : "0.3.5"
+      }
+    },
+    {
+      "identity" : "xctruntimeassertions",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StanfordBDHG/XCTRuntimeAssertions.git",
+      "state" : {
+        "revision" : "f560ec8410af032dd485ca9386e8c2b5d3e1a1f8",
+        "version" : "1.1.3"
+      }
+    }
+  ],
+  "version" : 3
+}
